@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chaselancaster/Node.js-Practice/issues"
   },
-  "homepage": "https://github.com/chaselancaster/Node.js-Practice#readme"
+  "homepage": "https://github.com/chaselancaster/Node.js-Practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
