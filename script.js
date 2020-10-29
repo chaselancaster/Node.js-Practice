@@ -1,4 +1,6 @@
-const a = 4;
+const largeNumber = require('./script2');
+
+const a = largeNumber;
 const b = 5;
 
 setTimeout(() => {
